@@ -1,4 +1,6 @@
-# Udacity_Data_Analyst_-_Wrangle_and_Analyze_Data
+# Wrangle and Analyze Data - WeRateDogs (@dog_rates) Twitter Account
+## by Lucas Amaro de Oliveira
+
 Project to Udacity in partial fulfillment of the requirements for the Danalyst Nanodegree.
 
 ## Table of Contents
